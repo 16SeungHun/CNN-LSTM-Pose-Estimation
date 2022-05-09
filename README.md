@@ -13,3 +13,9 @@ Train/Test는 4:1로 나눴습니다.
 처음 학습되는 모델은 CNN 단일 모델이며
 
 두번째로 학습되는 모델은 CNN + LSTM입니다.
+
+TOPROCK TEST 비디오 링크는 다음과 같습니다.
+
+## https://www.youtube.com/watch?v=X1hullry6PU
+
+정답 label : Toprock
